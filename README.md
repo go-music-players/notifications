@@ -1,4 +1,4 @@
-# go-music/notifications
+# go-music-players/notifications
 
 Universal D-Bus desktop notifications library for Go music players.
 
@@ -18,7 +18,7 @@ This library provides a simple, clean interface for adding desktop notifications
 ## Installation
 
 ```bash
-go get github.com/go-music/notifications
+go get github.com/go-music-players/notifications
 ```
 
 ## Quick Start
@@ -27,7 +27,7 @@ go get github.com/go-music/notifications
 package main
 
 import (
-    "github.com/go-music/notifications"
+    "github.com/go-music-players/notifications"
 )
 
 func main() {
@@ -429,8 +429,8 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## Related Projects
 
-- **[go-music/mpris](https://github.com/go-music/mpris)** - MPRIS D-Bus interface
-- **[go-music/backend](https://github.com/go-music/backend)** - Universal backend interface
+- **[go-music-players/mpris](https://github.com/go-music-players/mpris)** - MPRIS D-Bus interface
+- **[go-music-players/backend](https://github.com/go-music-players/backend)** - Universal backend interface
 
 ## Specifications
 
@@ -440,9 +440,9 @@ This library implements:
 
 ## Support
 
-- **Issues**: https://github.com/go-music/notifications/issues
-- **Discussions**: https://github.com/go-music/notifications/discussions
-- **Matrix**: #go-music:matrix.org
+- **Issues**: https://github.com/go-music-players/notifications/issues
+- **Discussions**: https://github.com/go-music-players/notifications/discussions
+- **Matrix**: #go-music-players:matrix.org
 
 ## Acknowledgments
 

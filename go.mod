@@ -1,4 +1,4 @@
-module github.com/go-music/notifications
+module github.com/go-music-players/notifications
 
 go 1.22
 
